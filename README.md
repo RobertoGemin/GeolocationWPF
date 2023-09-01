@@ -4,7 +4,7 @@ It is an application designed to store geolocation information in a database, al
 This PDF, accessible through the Google Drive link, contains a description of the project.
 https://docs.google.com/document/d/1aVUzI1ZnovGCvrREn8hkNE1-lCxrXfc9_x50CCLOOK8/edit?usp=sharing
 
-## Preparatory: Before starting<br>  
+## Preparation: Before starting<br>  
 **Step 1: Obtain and Configure API Key**
 * Visit 'https://geo.ipify.org/' to retrieve your API key.
 * Register for a free account if you don't have one.
