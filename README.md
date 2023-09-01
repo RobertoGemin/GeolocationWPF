@@ -12,5 +12,5 @@ https://docs.google.com/document/d/1aVUzI1ZnovGCvrREn8hkNE1-lCxrXfc9_x50CCLOOK8/
 
 **Step 2: Database Setup and data Initialization** 
 * Start console application
-- The methods in the console application create the necessary tables.
-- The tables will be preloaded with default data,this function is suitable for performing bulk insert operations.
+ - The methods in the console application create the necessary tables.
+ - The tables will be preloaded with default data,this function is suitable for performing bulk insert operations.
